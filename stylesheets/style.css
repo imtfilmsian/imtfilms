@@ -3,6 +3,8 @@
     width: auto;
     border: 2px solid darkgray;
     border-radius: 2px;
+    display: inline-block;
+    position: absolute;
 
 }
 
@@ -10,4 +12,16 @@
     padding: 10px 10px 10px 10px;
     width: 64px;
     height: 64px;
+    box-shadow: 5px 5px 5px gray;
+    display: inline;
+}
+
+.header img:hover {
+    opacity: 75%;
+    transform: scale(1.5) ease;
+}
+
+.header h1 {
+    display: inline-block;
+    margin: 15px;
 }
