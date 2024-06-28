@@ -1,6 +1,6 @@
 .header {
     background-color: lightgray;
-    width: auto;
+    width: 100%;
     border: 2px solid darkgray;
     border-radius: 2px;
     display: inline-block;
@@ -24,4 +24,5 @@
 .header h1 {
     display: inline-block;
     margin: 15px;
+    align-self: center;
 }
