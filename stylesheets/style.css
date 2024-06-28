@@ -1,3 +1,11 @@
 .header {
     background-color: lightgray;
+    width: auto;
+
+}
+
+.header img {
+    padding: 10px 10px 10px 10px;
+    width: 64px;
+    height: 64px;
 }
