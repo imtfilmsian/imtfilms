@@ -1,6 +1,3 @@
-.logo {
-    border: 1px solid blue;
-    border-radius: 0.5em;
-    width: 64px;
-    height: 64px;
+header {
+    background-color: lightgray;
 }
