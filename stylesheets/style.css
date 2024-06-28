@@ -1,6 +1,8 @@
 .header {
     background-color: lightgray;
     width: auto;
+    border: 2px solid darkgray;
+    border-radius: 2px;
 
 }
 
